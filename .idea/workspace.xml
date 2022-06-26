@@ -1,18 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="374e5ef8-a2d7-45b6-b1e6-5123a2e32878" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaLearning.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DatabaseConnectivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FirstDay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaInput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstractClass.java" afterDir="false" />
+    <list default="true" id="374e5ef8-a2d7-45b6-b1e6-5123a2e32878" name="Changes" comment="java learnings">
+      <change afterPath="$PROJECT_DIR$/src/CollectionPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/staticExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/wrapperClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,9 +38,9 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.abstractClass">
-    <configuration name="FirstDay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FirstDay" />
+  <component name="RunManager" selected="Application.CollectionPractice">
+    <configuration name="CollectionPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CollectionPractice" />
       <module name="JavaLearning" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -60,13 +53,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JavaInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaInput" />
-      <module name="JavaLearning" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="abstractClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="abstractClass" />
       <module name="JavaLearning" />
@@ -74,12 +60,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="staticExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="staticExample" />
+      <module name="JavaLearning" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="wrapperClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="wrapperClass" />
+      <module name="JavaLearning" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CollectionPractice" />
+        <item itemvalue="Application.wrapperClass" />
+        <item itemvalue="Application.staticExample" />
         <item itemvalue="Application.abstractClass" />
         <item itemvalue="Application.InheritanceExample" />
-        <item itemvalue="Application.JavaInput" />
-        <item itemvalue="Application.FirstDay" />
       </list>
     </recent_temporary>
   </component>
@@ -94,7 +95,17 @@
       <workItem from="1653919908526" duration="3798000" />
       <workItem from="1653971165988" duration="3694000" />
       <workItem from="1654347603392" duration="6125000" />
+      <workItem from="1655904305661" duration="3068000" />
+      <workItem from="1656240170136" duration="5687000" />
     </task>
+    <task id="LOCAL-00001" summary="java learnings">
+      <created>1655904475117</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1655904475117</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,6 +121,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="java learnings" />
+    <option name="LAST_COMMIT_MESSAGE" value="java learnings" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/JavaLearning$abstractClass.ic" NAME="abstractClass Coverage Results" MODIFIED="1654438817105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
